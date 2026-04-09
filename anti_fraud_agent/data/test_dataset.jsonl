@@ -1,0 +1,54 @@
+{"id": "SL001", "claim": "刷单样本1: 动动手指日赚100元，当天结算！", "label": "fraud", "fraud_type": "刷单返利", "risk_level": "high"}
+{"id": "SL002", "claim": "刷单样本2: 动动手指日赚200元，当天结算！", "label": "fraud", "fraud_type": "刷单返利", "risk_level": "high"}
+{"id": "SL003", "claim": "刷单样本3: 动动手指日赚300元，当天结算！", "label": "fraud", "fraud_type": "刷单返利", "risk_level": "high"}
+{"id": "SL004", "claim": "刷单样本4: 动动手指日赚400元，当天结算！", "label": "fraud", "fraud_type": "刷单返利", "risk_level": "high"}
+{"id": "SL005", "claim": "刷单样本5: 动动手指日赚500元，当天结算！", "label": "fraud", "fraud_type": "刷单返利", "risk_level": "high"}
+{"id": "SL006", "claim": "刷单样本6: 动动手指日赚600元，当天结算！", "label": "fraud", "fraud_type": "刷单返利", "risk_level": "high"}
+{"id": "TZ001", "claim": "投资样本1: 月收益率10%，保本保息！", "label": "fraud", "fraud_type": "虚假投资理财", "risk_level": "high"}
+{"id": "TZ002", "claim": "投资样本2: 月收益率20%，保本保息！", "label": "fraud", "fraud_type": "虚假投资理财", "risk_level": "high"}
+{"id": "TZ003", "claim": "投资样本3: 月收益率30%，保本保息！", "label": "fraud", "fraud_type": "虚假投资理财", "risk_level": "high"}
+{"id": "TZ004", "claim": "投资样本4: 月收益率40%，保本保息！", "label": "fraud", "fraud_type": "虚假投资理财", "risk_level": "high"}
+{"id": "TZ005", "claim": "投资样本5: 月收益率50%，保本保息！", "label": "fraud", "fraud_type": "虚假投资理财", "risk_level": "high"}
+{"id": "TZ006", "claim": "投资样本6: 月收益率60%，保本保息！", "label": "fraud", "fraud_type": "虚假投资理财", "risk_level": "high"}
+{"id": "DK001", "claim": "贷款样本1: 无抵押秒批1万元！", "label": "fraud", "fraud_type": "虚假网络贷款", "risk_level": "high"}
+{"id": "DK002", "claim": "贷款样本2: 无抵押秒批2万元！", "label": "fraud", "fraud_type": "虚假网络贷款", "risk_level": "high"}
+{"id": "DK003", "claim": "贷款样本3: 无抵押秒批3万元！", "label": "fraud", "fraud_type": "虚假网络贷款", "risk_level": "high"}
+{"id": "DK004", "claim": "贷款样本4: 无抵押秒批4万元！", "label": "fraud", "fraud_type": "虚假网络贷款", "risk_level": "high"}
+{"id": "DK005", "claim": "贷款样本5: 无抵押秒批5万元！", "label": "fraud", "fraud_type": "虚假网络贷款", "risk_level": "high"}
+{"id": "DK006", "claim": "贷款样本6: 无抵押秒批6万元！", "label": "fraud", "fraud_type": "虚假网络贷款", "risk_level": "high"}
+{"id": "GJ001", "claim": "公检法样本1: 我是公安局，你涉嫌犯罪，转账到安全账户！", "label": "fraud", "fraud_type": "冒充公检法", "risk_level": "high"}
+{"id": "GJ002", "claim": "公检法样本2: 我是公安局，你涉嫌犯罪，转账到安全账户！", "label": "fraud", "fraud_type": "冒充公检法", "risk_level": "high"}
+{"id": "GJ003", "claim": "公检法样本3: 我是公安局，你涉嫌犯罪，转账到安全账户！", "label": "fraud", "fraud_type": "冒充公检法", "risk_level": "high"}
+{"id": "GJ004", "claim": "公检法样本4: 我是公安局，你涉嫌犯罪，转账到安全账户！", "label": "fraud", "fraud_type": "冒充公检法", "risk_level": "high"}
+{"id": "GJ005", "claim": "公检法样本5: 我是公安局，你涉嫌犯罪，转账到安全账户！", "label": "fraud", "fraud_type": "冒充公检法", "risk_level": "high"}
+{"id": "GJ006", "claim": "公检法样本6: 我是公安局，你涉嫌犯罪，转账到安全账户！", "label": "fraud", "fraud_type": "冒充公检法", "risk_level": "high"}
+{"id": "KF001", "claim": "客服样本1: 您的订单有问题，添加 QQ 退款！", "label": "fraud", "fraud_type": "冒充电商客服", "risk_level": "high"}
+{"id": "KF002", "claim": "客服样本2: 您的订单有问题，添加 QQ 退款！", "label": "fraud", "fraud_type": "冒充电商客服", "risk_level": "high"}
+{"id": "KF003", "claim": "客服样本3: 您的订单有问题，添加 QQ 退款！", "label": "fraud", "fraud_type": "冒充电商客服", "risk_level": "high"}
+{"id": "KF004", "claim": "客服样本4: 您的订单有问题，添加 QQ 退款！", "label": "fraud", "fraud_type": "冒充电商客服", "risk_level": "high"}
+{"id": "KF005", "claim": "客服样本5: 您的订单有问题，添加 QQ 退款！", "label": "fraud", "fraud_type": "冒充电商客服", "risk_level": "high"}
+{"id": "KF006", "claim": "客服样本6: 您的订单有问题，添加 QQ 退款！", "label": "fraud", "fraud_type": "冒充电商客服", "risk_level": "high"}
+{"id": "SR001", "claim": "熟人样本1: 我是你领导，急需用钱，先转给我！", "label": "fraud", "fraud_type": "冒充熟人领导", "risk_level": "high"}
+{"id": "SR002", "claim": "熟人样本2: 我是你领导，急需用钱，先转给我！", "label": "fraud", "fraud_type": "冒充熟人领导", "risk_level": "high"}
+{"id": "SR003", "claim": "熟人样本3: 我是你领导，急需用钱，先转给我！", "label": "fraud", "fraud_type": "冒充熟人领导", "risk_level": "high"}
+{"id": "SR004", "claim": "熟人样本4: 我是你领导，急需用钱，先转给我！", "label": "fraud", "fraud_type": "冒充熟人领导", "risk_level": "high"}
+{"id": "SR005", "claim": "熟人样本5: 我是你领导，急需用钱，先转给我！", "label": "fraud", "fraud_type": "冒充熟人领导", "risk_level": "high"}
+{"id": "SR006", "claim": "熟人样本6: 我是你领导，急需用钱，先转给我！", "label": "fraud", "fraud_type": "冒充熟人领导", "risk_level": "high"}
+{"id": "GW001", "claim": "购物样本1: iPhone 仅售999元，限量抢购！", "label": "fraud", "fraud_type": "虚假购物服务", "risk_level": "high"}
+{"id": "GW002", "claim": "购物样本2: iPhone 仅售1998元，限量抢购！", "label": "fraud", "fraud_type": "虚假购物服务", "risk_level": "high"}
+{"id": "GW003", "claim": "购物样本3: iPhone 仅售2997元，限量抢购！", "label": "fraud", "fraud_type": "虚假购物服务", "risk_level": "high"}
+{"id": "GW004", "claim": "购物样本4: iPhone 仅售3996元，限量抢购！", "label": "fraud", "fraud_type": "虚假购物服务", "risk_level": "high"}
+{"id": "GW005", "claim": "购物样本5: iPhone 仅售4995元，限量抢购！", "label": "fraud", "fraud_type": "虚假购物服务", "risk_level": "high"}
+{"id": "GW006", "claim": "购物样本6: iPhone 仅售5994元，限量抢购！", "label": "fraud", "fraud_type": "虚假购物服务", "risk_level": "high"}
+{"id": "HP001", "claim": "婚恋样本1: 我带你投资，一起赚钱结婚！", "label": "fraud", "fraud_type": "婚恋交友 (杀猪盘)", "risk_level": "high"}
+{"id": "HP002", "claim": "婚恋样本2: 我带你投资，一起赚钱结婚！", "label": "fraud", "fraud_type": "婚恋交友 (杀猪盘)", "risk_level": "high"}
+{"id": "HP003", "claim": "婚恋样本3: 我带你投资，一起赚钱结婚！", "label": "fraud", "fraud_type": "婚恋交友 (杀猪盘)", "risk_level": "high"}
+{"id": "HP004", "claim": "婚恋样本4: 我带你投资，一起赚钱结婚！", "label": "fraud", "fraud_type": "婚恋交友 (杀猪盘)", "risk_level": "high"}
+{"id": "HP005", "claim": "婚恋样本5: 我带你投资，一起赚钱结婚！", "label": "fraud", "fraud_type": "婚恋交友 (杀猪盘)", "risk_level": "high"}
+{"id": "HP006", "claim": "婚恋样本6: 我带你投资，一起赚钱结婚！", "label": "fraud", "fraud_type": "婚恋交友 (杀猪盘)", "risk_level": "high"}
+{"id": "YM001", "claim": "谣言样本1: 某地发生大事，速转！", "label": "rumor", "fraud_type": "社会谣言", "risk_level": "medium"}
+{"id": "YM002", "claim": "谣言样本2: 某地发生大事，速转！", "label": "rumor", "fraud_type": "社会谣言", "risk_level": "medium"}
+{"id": "YM003", "claim": "谣言样本3: 某地发生大事，速转！", "label": "rumor", "fraud_type": "社会谣言", "risk_level": "medium"}
+{"id": "YM004", "claim": "谣言样本4: 某地发生大事，速转！", "label": "rumor", "fraud_type": "社会谣言", "risk_level": "medium"}
+{"id": "YM005", "claim": "真实信息5: 官方发布政策通知", "label": "truth", "fraud_type": "真实/其他", "risk_level": "low"}
+{"id": "YM006", "claim": "真实信息6: 官方发布政策通知", "label": "truth", "fraud_type": "真实/其他", "risk_level": "low"}
